@@ -1,0 +1,6 @@
+21GV1 tranduyanh chinhthuc 5 1000000 
+19GV2 chauthanhhai chinhthuc 6 1500000 
+21GV2 trancongman chinhthuc 5 1000000 
+23NV1 nguyenthihanh hopdong 3 
+23NV2 tranconguan hopdong 3 
+21GV3 nguyenvantrung chinhthuc 4 1200000 

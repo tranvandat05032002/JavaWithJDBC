@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author spiderman
+ *
+ */
+module HibernateDemo {
+}
